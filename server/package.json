@@ -10,7 +10,7 @@
     "dev": "concurrently -k \"yarn server\" \"yarn client\""
   },
   "keywords": [],
-  "author": "Agun",
+  "author": "Eri",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
